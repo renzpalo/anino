@@ -1,9 +1,14 @@
 html {
-  font-family: Arial, sans-serif;
-  background-color: black;
+  font-family: sans-serif;
 }
-html body {
-  color: white;
+
+body {
+  margin: 0;
+  border: solid 1px white;
+}
+
+header, footer, main, nav, section {
+  display: block;
 }
 
 /*# sourceMappingURL=reset.css.map */

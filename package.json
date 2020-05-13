@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/renzpalo/anino/issues"
   },
-  "homepage": "https://github.com/renzpalo/anino#readme"
+  "homepage": "https://github.com/renzpalo/anino#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  }
 }
