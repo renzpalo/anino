@@ -1,0 +1,28 @@
+{
+  "name": "anino",
+  "version": "1.0.0",
+  "description": "A responsive, dark-mode enabled front-end web framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-w": "sass --watch src/scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzpalo/anino.git"
+  },
+  "keywords": [
+    "css",
+    "response",
+    "dark-mode",
+    "front-end",
+    "web",
+    "framework"
+  ],
+  "author": "Renz Palo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzpalo/anino/issues"
+  },
+  "homepage": "https://github.com/renzpalo/anino#readme"
+}
